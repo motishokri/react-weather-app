@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://serene-payne-47c9ff.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Motahare Shokri {""}
           </a>
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/motishokri/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Open-Sourced On GitHub
           </a>
