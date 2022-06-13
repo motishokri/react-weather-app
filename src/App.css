@@ -3,6 +3,12 @@
 }
 
 .App footer {
-  font-size: 11px;
-  margin: -15px 0;
+  font-size: 13px;
+  margin: -12px 0;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+a {
+  color: #5d56a8;
 }
